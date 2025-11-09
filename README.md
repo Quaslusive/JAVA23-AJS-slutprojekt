@@ -3,4 +3,4 @@ React App
 Preview of Scrum Board tasklist
 
 Link to Scrum Board App:
-https://quaslusive.github.io/JAVA23-AJS-slutprojekt-carl-sundberg/
+https://quaslusive.github.io/JAVA23-AJS-slutprojekt/
